@@ -1,20 +1,20 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here - the ``s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Irfan Nasey
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+In this lab I learned how to use branches commits and pull requests to manage changes in GitHub. I also learned how to link issues to commits and PRs and how continuous integration automatically checks my work before merging.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git status  I will use this command when I want to check which files have changed which files are staged and the current state of my branch.
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: https://github.com/IR-Code4i6/csci3230u-lab-01-IR-Code4i6/pull/2
